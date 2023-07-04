@@ -1,1 +1,1 @@
-# fd
+"During my internship, I am interested in gaining hands-on experience in software development and data analysis. I would like to work on projects that involve Full Stack projects. I believe this will allow me to further enhance my technical skills and contribute to the development of innovative solutions. Here is a link to my internship proposal Google doc:
